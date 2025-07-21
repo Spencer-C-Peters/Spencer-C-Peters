@@ -21,7 +21,8 @@
 
  ### Github
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-C-Peters&layout=compact&theme=radical)
+![Snake animation](https://github.com/your-usernameSpencer-C-Peters/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
