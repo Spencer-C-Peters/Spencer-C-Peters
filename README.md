@@ -21,6 +21,7 @@
 
  ### Github
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Spencer-C-Peters&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spencer-C-Peters&show_icons=true)
+
 
 
