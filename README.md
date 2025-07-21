@@ -18,5 +18,5 @@
  <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"/>
 
  #
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spencer-C-Peters&show_icons=true)
 
