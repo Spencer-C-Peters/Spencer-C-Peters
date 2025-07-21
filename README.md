@@ -1,9 +1,10 @@
 ## Spencer Peters
 
---
+
 # About Me
 
  Hi there! I'm a third-year Application Development student at Varsity College with a passion for building practical, meaningful software. I'm comfortable working with C#, Java, Kotlin, and XML — and I enjoy creating applications that solve real-world problems. My goal is to grow into a developer who not only writes clean, efficient code but also builds projects that make a genuine impact. Always learning, always building — one project at a time.
+ 
 ---
 
 ### 🧰 Languages and Tools
