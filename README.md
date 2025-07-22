@@ -38,12 +38,6 @@
 
 ---
 
-### 🌾 [FarmTrack – Agriculture Management System](https://github.com/your-username/farmtrack)
-
-> A full-stack ASP.NET Core app designed for farmers to monitor crops, manage equipment, and track seasonal data. Connected to **Azure SQL** and follows clean MVC architecture.
-
----
-
 
 
 
