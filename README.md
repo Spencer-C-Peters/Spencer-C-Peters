@@ -24,7 +24,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-C-Peters&layout=compact&theme=radical)
 
 
+## 🚀 My Projects
 
+🔗 [Budgeting App] (https://github.com/STSpencerPeters/ScrapingBy.git)
+
+An Application that was built, to allow the user to create expenses and track their expenses to a budget that they created.
 
 
 
